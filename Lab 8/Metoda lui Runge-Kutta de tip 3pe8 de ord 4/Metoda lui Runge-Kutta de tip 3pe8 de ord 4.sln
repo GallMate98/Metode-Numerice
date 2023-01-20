@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metoda lui Runge-Kutta de tip 3pe8 de ord 4", "Metoda lui Runge-Kutta de tip 3pe8 de ord 4\Metoda lui Runge-Kutta de tip 3pe8 de ord 4.csproj", "{9C383120-FA24-40D4-82D6-7B7D143ACECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C383120-FA24-40D4-82D6-7B7D143ACECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C383120-FA24-40D4-82D6-7B7D143ACECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C383120-FA24-40D4-82D6-7B7D143ACECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C383120-FA24-40D4-82D6-7B7D143ACECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B288CD43-4C96-4645-B001-2A11D061661C}
+	EndGlobalSection
+EndGlobal

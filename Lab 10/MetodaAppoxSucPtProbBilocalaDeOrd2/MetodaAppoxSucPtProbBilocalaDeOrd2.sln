@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodaAppoxSucPtProbBilocalaDeOrd2", "MetodaAppoxSucPtProbBilocalaDeOrd2\MetodaAppoxSucPtProbBilocalaDeOrd2.csproj", "{47ABDDE7-BAC0-4A79-9ABA-190C4B9EEE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47ABDDE7-BAC0-4A79-9ABA-190C4B9EEE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ABDDE7-BAC0-4A79-9ABA-190C4B9EEE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ABDDE7-BAC0-4A79-9ABA-190C4B9EEE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ABDDE7-BAC0-4A79-9ABA-190C4B9EEE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D54F6C-A8DB-4BC2-A4C0-135E7F971E23}
+	EndGlobalSection
+EndGlobal
